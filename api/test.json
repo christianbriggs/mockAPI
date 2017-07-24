@@ -9,6 +9,8 @@
   },
   {
     "id": "3",
-    "title": "third article"
+    "title": "#third article
+    * which has markdown
+    * and other stuff"
   }
 ]
